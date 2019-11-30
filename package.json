@@ -1,7 +1,7 @@
 {
-  "name": "material-dashboard-react",
+  "name": "dashboard",
   "version": "1.8.0",
-  "description": "Material Dashboard React. Coded by Creative Tim",
+  "description": "Dashboard",
   "private": false,
   "main": "dist/index.js",
   "dependencies": {
@@ -33,16 +33,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
-  },
   "keywords": [],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "timursayfullin",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
-  },
   "homepage": "https://localhost/#/dashboard",
   "optionalDependencies": {
     "@types/googlemaps": "3.37.3",
